@@ -1,9 +1,5 @@
 # About
 A Discord registration bot with support for both Russian and English languages and email verification.
-## Demo
-
-![Image](https://i.hizliresim.com/fuuwxkb.png)
-![Image](https://i.hizliresim.com/lb8vgzx.png)
 
 ## Acknowledgements
 
